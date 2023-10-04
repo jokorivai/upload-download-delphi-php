@@ -1,7 +1,7 @@
 # upload-download-delphi-php
 Upload and download file from Delphi (Indy) with PHP backend.
 
-![Screenshot](https://github.com/jokorivai/upload-download-delphi-php/blob/main/Screenshot-2023-10-04-17.32.06.png?raw=true)
+![Screenshot](https://github.com/jokorivai/upload-download-delphi-php/blob/main/screenshot/Screenshot-2023-10-04-17.32.06.png?raw=true)
 
 Akses (upload dan download) file yang disimpan di remote server via PHP dari Delphi client.
 
